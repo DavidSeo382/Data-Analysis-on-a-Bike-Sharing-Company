@@ -1,4 +1,4 @@
-# Google Data Analytics Capstone Project 
+# Data Analysis on a Bike-Sharing Company 
 
 ## Overview
 I was tasked with helping a fictional bike-share company called Cyclistic that was based in Chicago. My job was to analyze their bike-share rider information that included individuals who were considered "casual" riders and individuals who were "members". The task that was given to me was to find out how to convert casual riders into members.

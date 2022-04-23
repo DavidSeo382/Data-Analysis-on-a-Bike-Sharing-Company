@@ -17,7 +17,7 @@ What could motivate casual riders to change to an annual subscription?
 
 ## Files Included:
 * R Markdown file that was knitted into a PDF. This file includes processes such as: 
-  * collecting the data
+  * Collecting the data
   * Wrangling it and combining it into a single file
   * Cleaning the data to prepare for analysis
   * Conducting Descriptive Analysis

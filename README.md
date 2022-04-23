@@ -13,7 +13,7 @@ What could motivate casual riders to change to an annual subscription?
 * R and RStudio 
 * Excel 
 * Tableau 
-* Microsoft Powerpoint
+* Microsoft PowerPoint
 
 ## Files Included:
 * R Markdown file that was knitted into a PDF. This file includes processes such as: 
@@ -22,3 +22,5 @@ What could motivate casual riders to change to an annual subscription?
   * Cleaning the data to prepare for analysis
   * Conducting Descriptive Analysis
   * Visualization 
+* Link to Tableau Public for visualization
+* Microsoft PowerPoint for presentation of findings

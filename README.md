@@ -15,7 +15,7 @@ What could motivate casual riders to change to an annual subscription?
 * Tableau 
 * Microsoft PowerPoint
 
-## Files Included:
+## Files Included (In Order):
 * R Markdown file that was knitted into a PDF. This file includes processes such as: 
   * Collecting the data
   * Wrangling it and combining it into a single file

@@ -9,7 +9,7 @@ Background Information: Cyclistic is a fictional bike-share company based in Chi
 ## Business Task
 What could motivate casual riders to change to an annual subscription?
 
-## Tools Used
+## Tools / Languages Used
 * R and RStudio 
 * Excel 
 * Tableau 
